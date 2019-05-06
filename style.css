@@ -28,6 +28,7 @@ p {
   padding-top: 5px;
   padding-bottom: 20px;
   color: #5f5d60;
+  text-align: center;
 }
 
 .sectionline {
@@ -306,6 +307,35 @@ header {
   line-height: 20px;
   text-align: left;
 }
+
+.qa-wrapper {
+  padding-bottom: 80px;
+  text-align: center;
+}
+
+.qas {
+  width: 80%;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.qa {
+  margin-top: 45px;
+  text-align: left;
+  word-wrap: break-word;
+}
+
+.qaline {
+  width: 100%;
+  border-bottom: 0.5px #F2F2F2 solid;
+  padding-top: 5px;
+}
+
+.inquiry-wrapper {
+  padding-bottom: 80px;
+  text-align: center;
+}
+
 
 /*contents-wrapper終了*/
 
