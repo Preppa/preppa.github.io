@@ -85,7 +85,7 @@ header {
   font-size: 48px;
   color: black;
   margin: 5px 0px 20px;
-  font-family: "Arial Rounded MT Bold";
+  font-family: "Tsukushi A Round Gothic";
 }
 
 /*header終了*/
@@ -358,6 +358,7 @@ footer {
   color: white;
   text-align: center;
   display: inline-block;
+  font-family: "Tsukushi A Round Gothic";
 }
 
 footer p {
@@ -365,6 +366,5 @@ footer p {
 }
 
 footer h2 {
-  font-family: "Arial Rounded MT Bold";
   font-size: 32px;
 }
