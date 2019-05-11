@@ -1,5 +1,7 @@
 /*共通部分css*/
 
+@charset "utf-8";
+
 * {
   box-sizing: border-box;
 }
