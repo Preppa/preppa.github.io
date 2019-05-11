@@ -26,6 +26,14 @@
     font-size: 38px;
   }
 
+  .top-wrapper {
+    height: 450px;
+  }
+
+  .top-wrapper img {
+    height: 450px;
+  }
+
   .top-container {
     height: 300px;
   }
